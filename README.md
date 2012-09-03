@@ -1,4 +1,4 @@
 Hello.World
 ===========
 
-First App for CS286
+First App for CS256
